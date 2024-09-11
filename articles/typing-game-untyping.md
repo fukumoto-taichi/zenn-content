@@ -1,6 +1,6 @@
 ---
 title: "T3 Stackでプログラミングに特化したタイピングゲームを作りました！あなたは何点出せますか？"
-emoji: "⌨️"
+emoji: "👨‍💻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Nextjs, T3Stack, TypeScript, tRPC]
 published: true
